@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarJar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in html, css, Javascript, and anyhting related to fullstack development
+- 🌱 I’m currently learning NodeJS, React, and more!
+- 💞️ I’m looking to collaborate on web development, web application, and web design projects
 - 📫 How to reach me at omar.dev90@gmail.com
 
 <!---
