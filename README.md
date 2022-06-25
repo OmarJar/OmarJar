@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmarJar
-- 👀 I’m interested in html, css, Javascript, and anyhting related to fullstack development
+- 👀 I’m interested in html, css, Javascript, and anyhting related to fullstack development, also c# and windows applications
 - 🌱 I’m currently learning NodeJS, React, and more!
 - 💞️ I’m looking to collaborate on web development, web application, and web design projects
 - 📫 How to reach me at omar.dev90@gmail.com
